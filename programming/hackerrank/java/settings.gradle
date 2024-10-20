@@ -15,4 +15,5 @@ include 'Java-Substring-Comparisons'
 include 'Java-String-Reverse'
 include 'Java-Anagrams'
 include 'Java-String-Tokens'
+include 'Pattern-Syntax-Checker'
 
