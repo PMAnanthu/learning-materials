@@ -34,4 +34,5 @@ findProject(':Java-Interface:Java-Method-Overriding')?.name = 'Java-Method-Overr
 include 'Java-Method-Overriding'
 include 'Java-Method-Overriding-2'
 include 'Java-Instanceof-keyword'
+include 'Java-Iterator'
 
