@@ -18,4 +18,5 @@ include 'Java-String-Tokens'
 include 'Pattern-Syntax-Checker'
 include 'Java-Regex'
 include 'Java-Regex-2-Duplicate-Words'
+include 'Valid-Username-Regular-Expression'
 
