@@ -13,4 +13,5 @@ include 'Java-Strings-Introduction'
 include 'Java-Substring'
 include 'Java-Substring-Comparisons'
 include 'Java-String-Reverse'
+include 'Java-Anagrams'
 
