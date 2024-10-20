@@ -25,4 +25,5 @@ include 'Java-Exception-Handling-II'
 include 'Java-BigDecimal'
 include 'Java-Primality-Test'
 include 'Java-BigInteger'
+include 'Java-Inheritance-I'
 
