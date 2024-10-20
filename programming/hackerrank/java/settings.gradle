@@ -23,4 +23,5 @@ include 'Tag-Content-Extractor'
 include 'Java-Exception-Handling'
 include 'Java-Exception-Handling-II'
 include 'Java-BigDecimal'
+include 'Java-Primality-Test'
 
