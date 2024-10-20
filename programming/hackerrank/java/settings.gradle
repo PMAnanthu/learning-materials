@@ -19,4 +19,7 @@ include 'Pattern-Syntax-Checker'
 include 'Java-Regex'
 include 'Java-Regex-2-Duplicate-Words'
 include 'Valid-Username-Regular-Expression'
+include 'Tag-Content-Extractor'
+include 'Java-Exception-Handling'
+include 'Java-Exception-Handling-II'
 
