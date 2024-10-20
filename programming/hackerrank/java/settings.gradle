@@ -1,4 +1,5 @@
 rootProject.name = 'java'
 include 'Java-Stdin-and-Stdout-II'
 include 'Java-Output-Formatting'
+include 'Java-Loops-I'
 
