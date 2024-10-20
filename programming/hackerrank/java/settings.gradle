@@ -10,4 +10,5 @@ include 'Java-Int-to-String'
 include 'Java-Date-and-Time'
 include 'Java-Currency-Formatter'
 include 'Java-Strings-Introduction'
+include 'Java-Substring'
 
