@@ -16,4 +16,5 @@ include 'Java-String-Reverse'
 include 'Java-Anagrams'
 include 'Java-String-Tokens'
 include 'Pattern-Syntax-Checker'
+include 'Java-Regex'
 
