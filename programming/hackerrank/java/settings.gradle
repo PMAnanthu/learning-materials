@@ -32,4 +32,5 @@ include 'Java-Interface'
 include 'Java-Interface:Java-Method-Overriding'
 findProject(':Java-Interface:Java-Method-Overriding')?.name = 'Java-Method-Overriding'
 include 'Java-Method-Overriding'
+include 'Java-Method-Overriding-2'
 
