@@ -29,4 +29,7 @@ include 'Java-Inheritance-I'
 include 'Java-Inheritance-II'
 include 'Java-Abstract-Class'
 include 'Java-Interface'
+include 'Java-Interface:Java-Method-Overriding'
+findProject(':Java-Interface:Java-Method-Overriding')?.name = 'Java-Method-Overriding'
+include 'Java-Method-Overriding'
 
