@@ -11,4 +11,5 @@ include 'Java-Date-and-Time'
 include 'Java-Currency-Formatter'
 include 'Java-Strings-Introduction'
 include 'Java-Substring'
+include 'Java-Substring-Comparisons'
 
