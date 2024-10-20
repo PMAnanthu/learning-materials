@@ -12,4 +12,5 @@ include 'Java-Currency-Formatter'
 include 'Java-Strings-Introduction'
 include 'Java-Substring'
 include 'Java-Substring-Comparisons'
+include 'Java-String-Reverse'
 
