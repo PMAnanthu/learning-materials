@@ -37,4 +37,7 @@ include 'Java-Instanceof-keyword'
 include 'Java-Iterator'
 include 'Java-1D-Array'
 include 'Java-2D-Array'
+include 'Java-Subarray'
+include 'Java-Arraylist'
+include 'Java-List'
 
