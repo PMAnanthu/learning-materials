@@ -1,0 +1,7 @@
+rootProject.name = 'problem-solving'
+include 'Arrays-DS'
+include 'Arrays-DS'
+include '_2D-Array-DS'
+include '_2D-Array-DS'
+include 'Dynamic-Array'
+
