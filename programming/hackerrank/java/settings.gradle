@@ -40,4 +40,8 @@ include 'Java-2D-Array'
 include 'Java-Subarray'
 include 'Java-Arraylist'
 include 'Java-List'
+include 'Java-Map'
+include 'Java-Hashset'
+include 'Java-Generics'
+include 'Java-Sort'
 
