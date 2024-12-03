@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        Solution solution=new Solution();
+        Solution solution=new Solution2();
         int[] array={9};
         int[] result=solution.plusOne(array);
         for(int val:result){
